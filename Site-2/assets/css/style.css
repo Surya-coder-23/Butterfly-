@@ -1,0 +1,771 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;0,600;1,400&display=swap');
+
+ .navbar .navbar-nav .nav-item .nav-link{  
+    font-size: 20px;
+    margin-right: 30px;
+    text-transform: uppercase;
+    transition: 0.3s;
+    font-family: Dosis;
+    color: #0f394c;
+
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+    color:#49b5e7;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+.bg-light {
+    background-color: white!important;
+    height: 100px;
+}
+.navbar .navbar-brand .img_site .img {
+    vertical-align: middle;
+    border-style: none;
+    height: 50px;
+    margin-left: 70px;
+}
+
+/* =============================== */
+
+
+.banner{
+    background-color: #f9f9f9;
+    height: 80%;
+}
+.d-block   { 
+    width: 37%!important;
+    margin-left: 761px;
+    margin-top: 190px;
+
+}
+.pt-4, .py-4 {
+    padding-top: 4.5rem!important;
+}
+h1
+    {
+        margin-left: 89px;
+        font-size: 40px;
+        font-family: cursive;
+        color: #0f394c;
+       
+        margin-top: -30px;
+    }
+    h2{
+        color:#0f394c;
+        font-size: 27px;
+    margin-top: 40px;
+    font-family: 'Dosis';
+    margin-left: 94px; 
+    }
+.btn{    
+    width: 220px;
+    margin-left: 90px;
+    margin-top: 20px;
+    height: 50px;
+    font-size: 20px;
+    box-shadow: none !important;
+}
+.btn:hover{
+    background-color: #76c7ed;
+}
+/* ===============================? */
+.video_site{
+    margin-top: 130px;
+    height: 530px;
+    margin-left: 109px;
+}
+.media{
+    margin-top: 50px !important;
+}
+.media-body .peratag{
+    margin-top: 30px;
+    font-family: 'Dosis';
+    font-size: 50px;
+    margin-left: 46px;
+}
+.media .align-self-center{
+    margin-top: 10px;
+    height: 580px;
+    margin-left: 130px;
+} 
+.media .align-self-center{
+    width: 31%!important;
+    margin-top: -30px;
+    height: 800px;
+    margin-left: 177px;
+}
+.pade{
+       /* background: red; */
+       width: 801px;
+       margin-top: 50!important;
+       font-family: auto;
+       font-size: 23px;
+       margin-left: 61px;
+   
+}
+.col-sm{
+    max-width: 70%;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 51px;
+}
+.lorem{
+    margin-left: 60px;
+    transition: 0.3s;
+}
+.lorem:hover{
+    color: #49b5e7;
+    transition: 0.3s;
+}
+.qui{
+       /* background: red; */
+       width: 647px;
+       margin-left: 27px;
+       font-size: 21px; 
+}
+.fa-fingerprint{
+    width: 90px;
+    font-size: 50px;
+    margin-top: 41px;
+    padding-top: 20px;
+    padding-left: 18px;
+     color: #49b5e7; 
+    border: 2px solid;
+    border-radius: 100px;
+    margin-left: 61px;
+    height: 90px;
+}
+.fa-fingerprint:hover{
+    background: #49b5e7;
+    border-color: #49b5e7;
+    color: #f9f9f9;
+}
+.fa-gift{
+    width: 90px;
+    font-size: 50px;
+    margin-top: 41px;
+    padding-top: 20px;
+    color: #49b5e7;
+    padding-left: 18px;
+    border: 2px solid;
+    border-radius: 100px;
+    margin-left: 61px;
+    height: 90px;
+}
+.fa-gift:hover{
+    background: #49b5e7;
+    border-color: #49b5e7;
+    color: #f9f9f9;
+}
+.fa-atom{
+    width: 90px;
+    color: #49b5e7;
+    font-size: 50px;
+    margin-top: 41px;
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 2px solid;
+    border-radius: 100px;
+    margin-left: 63px;
+    height: 90px;
+}
+.fa-atom:hover{
+    background: #49b5e7;
+    border-color: #49b5e7;
+    color: #f9f9f9;
+    
+}
+/* ===================================== */
+
+.bg-dark{
+    margin-top: 80px;
+}
+.bg-dark .card-img{
+    height: 20pc;
+}
+  .card-title{
+    font-family: dosis;
+    font-size: 50px;
+    text-align: center;
+color: pink;
+  }
+  
+   .card-stage{
+    font-family: Open sans-serif;
+    font-size: 23px;
+    text-align: center;
+    color: pink ;
+}
+ .brand{margin-top: 60px;}
+ .row{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 6px;
+    margin-left: -62px;
+ }
+
+.card-text{    
+    font-size: 60px;
+    font-family: dosis;
+    margin-left: 3pc;
+    color: #0aaaf5;
+}
+.card-text4{    
+    font-size: 60px;
+    font-family: dosis;
+    margin-left: 6pc;
+    color: #0aaaf5;
+}
+.card-space{
+    color: black;
+    font-size: 26px;
+    margin-left: 48px;
+    font-family: open sans-serif;
+}
+.img_brand{
+    border: 1px solid;
+    width: 346px;
+    height: 110px;
+}
+.imgstage1{
+    left: 61px;
+    height: 90px;
+    margin-top: 3px;
+}
+.imgstage1:hover{
+    filter: none;
+    transform: scale(1.2);
+}
+.imgstage2{
+    height: 67px;
+    margin-left: 120px;
+    margin-top: 19px;
+}
+.imgstage2:hover{
+    filter: none;
+    transform: scale(1.2);
+}
+.imgstage3{
+    height: 77px;
+    margin-left: 80px;
+    margin-top: 12px;
+}
+.imgstage3:hover{
+    filter: none;
+    transform: scale(1.2);
+}
+.imgstage4{
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 29px;
+}
+.imgstage4:hover{
+    filter: none;
+    transform: scale(1.2);
+}
+.imgstage5{
+    height: 67px;
+    margin-left: 69px;
+    margin-top: 26px;
+}
+.imgstage5:hover{
+    filter: none;
+    transform: scale(1.2);
+}
+.imgstage6{
+    height: 67px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.imgstage6:hover{
+    filter: none;
+    transform: scale(1.2);
+}
+.imgstage7{
+    height: 58px;
+    margin-left: 69px;
+    margin-top: 20px;
+}
+.imgstage7:hover{
+    filter: none;
+    transform: scale(1.2);
+}
+.imgstage8{
+    height: 67px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.imgstage8:hover{
+        filter: none;
+        transform: scale(1.2);
+    }
+    /* ======================== */
+    .seversection{
+background-color: #f4fbfe;
+height: 100%;
+margin-top: 80px;
+    }
+    .severes{
+        text-align: center;
+        font-family: dosis;
+        font-size: 50px;
+        color: #0f394c;
+    padding-top: 50px;
+    }
+    .fuga{
+        font-family: sans-serif;
+        font-size: 17px;
+        margin-left: 30px;
+        color: #0f394c;
+        /* background: forestgreen; */
+        height: 6px;
+        text-align: center;
+        width: 1210px;
+    
+    }
+    .icon-box1{
+        background: white;
+        height: 75%;
+        border-radius: 20px;
+        margin-left: 191px;
+        width: 410px;
+        margin-top: 100px;
+    }
+    .icon-box1:hover{
+        transform: translateY(-5px);
+    }
+    .icon-box2{
+        background: white;
+        height: 75%;
+        border-radius: 20px;
+        margin-left: 111px;
+        width: 410px;
+        margin-top: 100px;
+    }
+    .icon-box3{
+        background: white;
+        height: 75%;
+        border-radius: 20px;
+        margin-left: 31px;
+        width: 410px;
+        margin-top: 100px;
+    }
+    .icon-box4{
+        background: white;
+        height: 75%;
+        border-radius: 20px;
+        margin-left: 191px;
+        width: 410px;
+        margin-top: 100px;
+    }
+    .icon-box5{
+        background: white;
+        height: 75%;
+        border-radius: 20px;
+        margin-left: 111px;
+        width: 410px;
+        margin-top: 100px;
+    }
+    .icon-box6{
+        background: white;
+        height: 75%;
+        border-radius: 20px;
+        margin-left: 31px;
+        width: 410px;
+        margin-top: 100px;
+    }
+    
+    .icon{
+        font-size: 70px;
+    position: absolute;
+    top: 180px;
+
+    }
+    .icon:hover{
+        transform: translateY(-5px);
+    }
+    .title{
+        padding-left: 100px;
+      
+    
+    }
+    .description{
+        padding-left: 110px;
+    font-size: 20px;
+    padding-top: 21px;
+    }
+    /* ================== */
+    .Magnam{
+         margin-top: 150px;
+
+    margin-left: 52px;
+    text-align: center;
+    color: #0f394c;
+    font-size: 48px;
+    font-family: dosis; 
+    }
+.sit{
+    margin-top: 50px;
+    font-size: 24pxlarge;
+    width: 80pc;
+    margin-left: 29px;
+    text-align: center;
+}
+.col-sm{
+    font-family: dosis;
+}
+.col-sm:hover{
+    color: #49b5e7;
+
+}
+.imgrow1{
+    position: absolute;
+    left: 91px;
+    height: 253px;
+    margin-top: 69px;
+}
+.imgrow2{
+    position: absolute;
+    left: 460px;
+    height: 250px;
+    margin-top: 69px;
+}
+.imgrow3{
+    position: absolute;
+    left: 810px;
+    height: 250px;
+    margin-top: 69px;
+
+}
+.imgrow4{
+    position: absolute;
+    left: 91px;
+    height: 250px;
+    margin-top: 416px;
+}
+.imgrow5{
+    position: absolute;
+    left: 484px;
+    height: 250px;
+    margin-top: 416px;
+
+}
+.imgrow6{
+    position: absolute;
+    left: 839px;
+    height: 250px;
+    margin-top: 416px;
+}
+.imgrow7{
+    position: absolute;
+    left: 91px;
+    height: 250px;
+    margin-top: 758px;
+}
+.imgrow8{
+    position: absolute;
+    left: 460px;
+    height: 260px;
+    margin-top: 758px;
+}
+.imgrow9{
+    position: absolute;
+    left: 830px;
+    height: 250px;
+    margin-top: 758px;
+
+}
+
+.imgrow9:hover{
+    background-color: #e00a0a;
+}
+.carousel-1 {
+    position: relative;
+    top: 1111px;
+}
+ .master{
+    width: 90%!important;
+    height: 370px;
+    margin-left: 4px;
+    margin-top: 1000px;
+
+} 
+.imgcli{
+    
+    background: aqua;
+    height: 110px;
+    position: absolute;
+    border-radius: 320px;
+    top: -130px;
+}
+.quis{
+font-size: 30px;
+}
+/* ============================= */
+.Teamsection{
+    background-color: #f4fbfe;
+    height: 90%;
+    margin-top: 1110px;
+}
+.teamsec{
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+    /* top: 1310px; */
+    margin-top: 70px;
+    margin-left: 850px
+}
+.quidem{
+    width: 910px;
+    position: absolute;
+    margin-top: 141px;
+    font-size: 20px;
+    font-family: dosis;
+    /* background: aqua; */
+    margin-left: 30px;
+}
+
+.card1{
+    
+    margin-top: 300px;
+    height: 30px;
+    margin-left: -101px !important;
+    position: absolute;
+    background: white !important;
+    height: 5pc;
+}
+.card-text1{
+    font-size: 20px;
+    font-family: dosis;
+}
+.card2{
+    
+    margin-top: -413px;
+    height: 30px;
+    margin-left: 390px !important;
+    position: absolute;
+    background: white !important;
+    height: 24pc;
+
+}
+.card-text2{
+    font-size: 20px;
+    font-family: dosis;
+}
+.card3{
+    
+    margin-top: -413px;
+    height: 30px;
+    
+    position: absolute;
+    background: white !important;
+    height: 24pc;
+    margin-left: 400px;
+
+}
+.card-text3{
+    font-size: 20px;
+    font-family: dosis;
+}
+.card5{
+    
+    margin-top:-413px ;
+    height: 30px;
+    margin-left: 340px !important ;
+    position: absolute;
+    background: white !important;
+    height: 24pc;
+
+}
+.card-text5{
+    font-size: 20px;
+    font-family: dosis;
+}
+.lever1{
+    TOP: 580PX;
+    /* background: aquamarine; */
+    font-size: 20px;
+    width: 1180px;
+    position: absolute;
+    right: -620px;
+    right: -250px text-align center;
+    text-align: center;
+}
+.gallrelt{
+    margin-top: 60px;
+    position: absolute;
+    left: 270px;
+    font-family: dosis;
+    color: #0f394c;
+    font-size: 40px;
+}
+.gallerytech1{
+    height: 220px;
+    position: absolute;
+    right: 196px;
+    top: 690px;
+}
+.gallerytech2{
+    height: 210px;
+    position: absolute;
+    right: -103px;
+    top: 690px;
+}
+.gallerytech3{
+    height: 210px;
+    position: absolute;
+    left: 413px;
+    top: 690px;
+}
+.gallerytech4{
+    height: 210px;
+    position: absolute;
+    left: 728px;
+    top: 690px;
+}
+.gallerytech5{
+    height: 220px;
+    position: absolute;
+    top: 979px;
+    right: 191px;
+
+}
+.gallerytech6{
+    height: 200px;
+    position: absolute;
+    right: -103px;
+    top: 980px;
+}
+.gallerytech7{
+    height: 200px;
+    position: absolute;
+    left: 421px;
+    top: 980px;
+}
+.gallerytech8{
+    height: 210px;
+    position: absolute;
+    left: 710px;
+    top: 980px;
+}
+.contactsection{
+    position: absolute;
+    margin-top: 900px;
+}
+.CONTACTSECTI{
+    margin-left: 701px;
+    font-size: 41px;
+    font-family: dosis;
+    color: #0f394c;
+}
+.sint{
+    position: absolute;
+    
+    margin-left: -19px;
+    left: 186px;
+    text-align: center;
+    width: 1200px;
+    font-size: 20px;
+}
+.map{
+    margin-top: 120px;
+    width: 1291px;
+    margin-left: 120px;
+}
+.info{
+    position: absolute;
+    right: 880px;
+    margin-top: 50px;
+    font-size: 19px;
+    font-family: dosis;
+}
+.lok1{
+    color: #0f394c;
+}
+ .fa-location-dot{
+    height: 60px;
+    left: -90px;
+    width: 60px;
+    padding-left: 14px;
+    position: absolute;
+    padding-top: 10px;
+    border-radius: 50px;
+    font-size: 40px;
+    border: 2px solid;
+    color: #49b5e7;
+ }
+ .fa-envelope{
+    height: 60px;
+    left: -90px;
+    width: 60px;
+    padding-left: 12px;
+    position: absolute;
+    padding-top: 10px;
+    color: #49b5e7;
+    border-radius: 50px;
+    font-size: 38px;
+    border: 2px solid;
+ }
+ .fa-mobile-screen-button{
+    height: 60px;
+    left: -90px;
+    width: 60px;
+    padding-left: 14px;
+    position: absolute;
+    padding-top: 10px;
+    border-radius: 50px;
+    font-size: 40px;
+    border: 2px solid;
+    color: #49b5e7;
+ }
+ .fa-location-dot:hover{
+    background: #49b5e7;
+    border-color: #49b5e7;
+    color: #f9f9f9;
+ }
+ .fa-envelope:hover{
+    background: #49b5e7;
+    border-color: #49b5e7;
+    color: #f9f9f9;
+ }
+ .fa-mobile-screen-button:hover{
+    background: #49b5e7;
+    border-color: #49b5e7;
+    color: #f9f9f9;
+ }
+ .form-control{
+    margin-left: 450px;
+    width: 31%;
+    margin-top: 52px;
+    height: 41px;
+}
+.form-control2{
+    margin-left: 451px;
+    margin-top: -56px;
+    width: 30%;
+    height: 39px;
+
+}
+.form-control3{
+    margin-left: 449px;
+    height: 42px;
+    width: 58%;
+
+}
+.form-control4{
+    width: 755px;
+    margin-top: 1px;
+    height: 110px;
+    margin-left: 450px;
+
+}
+.btn-primary1{
+    margin-left: 590px;
+    margin-top: 40px;
+    background-color: #0aaaf5;
+    color: #f9f9f9;
+}
